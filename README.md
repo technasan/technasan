@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @technasan
 - 👀 I’m interested in web development / parametric modeling
-- 🌱 I’m currently learning how to use git ))
+- 🌱 I’m currently upgrading my JS/React skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
